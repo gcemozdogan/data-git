@@ -5,3 +5,7 @@ def my_name_is():
     """Return my GitHub username."""
     return "gcemozdogan"
 
+
+def my_buddy_is():
+    """Return my buddy's GitHub username."""
+    return "gcemozdogan"
