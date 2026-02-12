@@ -1,6 +1,7 @@
-'''
-This is the module docstring
-'''
+"""A module computing buddy pair names for the day"""
 
 
-pass  # YOUR CODE HERE
+def my_name_is():
+    """Return my GitHub username."""
+    return "gcemozdogan"
+
